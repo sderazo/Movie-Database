@@ -1,0 +1,6 @@
+tt0047478 Seven Samurai; 1954 Action Akira Kurosawa; 8.6
+tt0099685 Goodfellas; 1990 Crime Martin Scorsese; 8.7
+tt0068646 The Godfather; 1972 Crime Francis Ford Coppola; 9.2
+tt0110912 Pulp Fiction; 1994 Crime Quentin Tarantino; 8.9
+tt0109830 Forrest Gump; 1994 Drama Robert Zemeckis; 8.8
+tt7286456 Joker; 2019 Drama Todd Phillips; 8.4

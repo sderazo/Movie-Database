@@ -1,0 +1,8 @@
+tt0052978 A; 1948 Blaction Momo Person; 5.7
+tt0099685 V; 1990 Crime Martin Scorsese; 8.7
+tt0068646 B; 1972 Crime Francis Ford Coppola; 9.2
+tt0110912 F; 1994 Crime Quentin Tarantino; 8.9
+tt0109830 Z; 1994 Drama Robert Zemeckis; 8.8
+tt7286456 C; 2019 Drama Todd Phillips; 8.4
+tt6596456 E; 2009 Comedy James Roades; 6.0
+tt7284556 H; 2002 Horror Jeremy Phills; 5.2
